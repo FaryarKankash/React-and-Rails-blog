@@ -5,4 +5,9 @@
 
  install Ruby and Ruby on Rails first.
  
-run bundle install, Rails db:migrate and rails s to start the backend server.
+run: 
+###bundle install 
+###Rails db:migrate 
+and 
+###rails s 
+to start the backend server.
