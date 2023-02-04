@@ -19,14 +19,22 @@
     ]
   },
   "dependencies": {
+    "@ckeditor/ckeditor5-react": "^5.0.6",
+    "@preact/signals-react": "^1.2.1",
     "@sonnat/icons": "2.2.0",
     "@sonnat/ui": "2.0.7",
+    "axios": "^1.1.3",
+    "bootstrap": "^5.2.2",
+    "ckeditor5-custom-build": "file:ckeditor",
+    "got": "^12.5.3",
+    "material-icons": "^1.13.1",
     "react": "17.0.2",
+    "react-burger-menu": "^3.0.9",
     "react-dom": "17.0.2",
+    "react-router-dom": "^5.3.4",
     "react-scripts": "5.0.1"
   },
   "devDependencies": {
-    "eslint-config-prettier": "8.5.0",
     "prettier": "2.7.1"
   }
 }
